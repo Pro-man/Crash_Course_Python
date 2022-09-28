@@ -1,0 +1,5 @@
+In Python you can create object orinted programming.
+In Python you can use control flow statements.
+In Python you can append or del items from lists.
+In Python you can open and close files.
+In Python you can use dictionaries.

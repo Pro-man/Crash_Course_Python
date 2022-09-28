@@ -28,6 +28,16 @@
 # input()
 # int() 
 # list()
+# OrderedDict() - library
+# randint() - library
+# open()
+# read()
+# readlines()
+# spilt()
+# count()
+# json.dump()
+# json.load()
+# setup() method
 
 # while loop 
 # for loop
@@ -64,6 +74,18 @@
 # *asterisk (tuple)
 # ** 2-asterick (dictionary)
 # import module 
+# object oriented programming
+# instantiation
+# attributtes
+# exceptions 
+# json 
+# file path 
+# absolute path
+# write mode
+# append mode
+# read and write mode
+# try and except
+# json 
 
 # conditions keywords
 #   and 
@@ -82,3 +104,5 @@
 # logical error
 # syntax error
 # value error
+# ZeroDivisionError
+# FileNotFoundError
