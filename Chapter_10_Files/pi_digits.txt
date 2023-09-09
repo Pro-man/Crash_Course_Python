@@ -1,0 +1,8 @@
+Nathan Reid
+Sept. 11th, 2022
+Reading from a file
+
+3.1415926535
+  8979323846
+  2643383279
+    
